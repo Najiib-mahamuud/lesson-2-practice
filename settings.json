@@ -1,7 +1,7 @@
 {
   "theme": "light",
   "fontSize": 16,
-  "language": "en",
+  "language": "en-US",
   "notifications": true,
   "autoSave": true,
   "tabSize": 4,
