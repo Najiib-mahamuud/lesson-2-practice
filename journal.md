@@ -18,3 +18,7 @@ Practiced staging and committing files. Created multiple files.
 ## Day 3
 
 Learned about git diff and git log. Understood how to track changes.
+
+## Day 4
+
+Practiced staging multiple files and making meaningful commits.
