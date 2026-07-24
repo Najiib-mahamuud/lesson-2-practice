@@ -17,3 +17,10 @@ git add - stages changes
 git commit - saves changes
 git status - shows current state
 git log - shows commit history
+
+
+Branching:
+---------
+git branch - lists branches
+git switch -c - creates and switches to new branch
+git switch - switches branches
