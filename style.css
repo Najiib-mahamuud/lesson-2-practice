@@ -126,3 +126,13 @@ footer {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     transition: box-shadow 0.3s ease;
 }
+
+/* GitHub Practice Styles */
+.badge {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #27ae60;
+    color: white;
+    border-radius: 3px;
+    font-size: 12px;
+}
