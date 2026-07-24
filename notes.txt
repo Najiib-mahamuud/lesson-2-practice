@@ -64,3 +64,11 @@ Summary:
 -------
 Git is a powerful version control system.
 Practice makes perfect!
+
+
+GitHub Commands:
+---------------
+git remote add origin <url> - connects to GitHub
+git push -u origin main - pushes to GitHub
+git pull - gets latest from GitHub
+git fetch - downloads from GitHub
