@@ -16,3 +16,11 @@ List of Names
 - Mia
 - Noah
 - Olivia
+
+Locations:
+---------
+- New York
+- London
+- Tokyo
+- Paris
+- Dubai
