@@ -1,0 +1,11 @@
+Git Notes
+=========
+
+Git is a version control system.
+Git helps track changes in files.
+Git makes collaboration easier.
+
+Basic Workflow:
+1. Modify files
+2. Stage changes (git add)
+3. Commit changes (git commit)
