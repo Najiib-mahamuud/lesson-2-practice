@@ -1,0 +1,2 @@
+This section provides more details about the Git practice project.
+The purpose of this project is to learn Git commands through hands-on practice.
