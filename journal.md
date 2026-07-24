@@ -14,3 +14,7 @@ Started learning Git. Learned about repositories, commits, and staging area.
 ## Day 2
 
 Practiced staging and committing files. Created multiple files.
+
+## Day 3
+
+Learned about git diff and git log. Understood how to track changes.
