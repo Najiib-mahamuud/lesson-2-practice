@@ -28,3 +28,6 @@ Locations:
 - James
 - Emma
 - Logan
+- Ava
+- Ethan
+- Isabella
