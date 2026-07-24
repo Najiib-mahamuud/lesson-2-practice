@@ -9,3 +9,11 @@ Basic Workflow:
 1. Modify files
 2. Stage changes (git add)
 3. Commit changes (git commit)
+
+Useful Git Commands:
+-------------------
+git init - creates a new repository
+git add - stages changes
+git commit - saves changes
+git status - shows current state
+git log - shows commit history
