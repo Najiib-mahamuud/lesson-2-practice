@@ -46,3 +46,8 @@ Practiced more advanced Git commands. Getting ready for branching.
 ## Day 10
 
 Almost done with 100 commits! Preparing for branch practice.
+
+
+## Milestone
+
+Reached 100 commits! This is a great achievement in my Git learning journey.
