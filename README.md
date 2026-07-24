@@ -44,3 +44,7 @@ This project will use feature branches for different sections.
 1. Make 100 commits
 2. Practice branching
 3. Push to GitHub
+
+## Progress Update
+
+75 commits completed! Getting closer to 100.
