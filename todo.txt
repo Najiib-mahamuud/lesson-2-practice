@@ -14,3 +14,4 @@ Git Practice Todo List
 [ ] Push to GitHub
 [ ] Practice git restore
 [ ] Practice git stash
+[ ] Push to GitHub
