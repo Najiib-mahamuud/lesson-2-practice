@@ -51,3 +51,7 @@ This project will use feature branches for different sections.
 
 
 This project contains 11 different files with various content.
+
+## Final Notes
+
+Almost at 100 commits!
