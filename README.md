@@ -16,3 +16,7 @@ This is where I'll track my Git practice journey.
 ## Getting Started
 
 This project helps me practice Git commands every day.
+
+## Current Progress
+
+I have created 11 different files and made 25 commits so far.
