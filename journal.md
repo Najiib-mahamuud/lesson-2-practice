@@ -34,3 +34,7 @@ Halfway through the 100 commits challenge! Feeling more confident with Git.
 ## Day 7
 
 Learned about git diff and how to compare changes.
+
+## Day 8
+
+Practiced more advanced Git commands. Getting ready for branching.
