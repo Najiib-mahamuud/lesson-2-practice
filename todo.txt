@@ -6,7 +6,7 @@ Git Practice Todo List
 [x] Practice git status
 [x] Practice git diff
 [x] Practice git log
-[ ] Create branches
+[x] Create branches
 [ ] Push to GitHub
 
 [ ] Practice git branch
