@@ -4,7 +4,7 @@
   "language": "en",
   "notifications": true,
   "autoSave": true,
-  "tabSize": 2,
+  "tabSize": 4,
   "showLineNumbers": true,
   "autoFormat": true
 }
