@@ -34,3 +34,7 @@ I have created 11 different files and made 25 commits so far.
 9. settings.json - Application settings
 10. index.html - Web page
 11. style.css - Stylesheet
+
+## Branch Strategy
+
+This project will use feature branches for different sections.
