@@ -55,3 +55,16 @@ This project contains 11 different files with various content.
 ## Final Notes
 
 Almost at 100 commits!
+
+---
+
+## Feature Branches
+
+This project uses feature branches for organization:
+
+- feature-about - About page content
+- feature-skills - Skills documentation
+- feature-notes - Advanced notes
+- feature-readme - README updates
+- feature-footer - Footer content
+- feature-contact - Contact information
