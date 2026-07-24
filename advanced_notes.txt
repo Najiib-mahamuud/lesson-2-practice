@@ -1,0 +1,5 @@
+Advanced Notes:
+----------------
+Git tracks changes in your files over time.
+Each commit saves a snapshot of your project.
+Branches allow you to work on features independently.
