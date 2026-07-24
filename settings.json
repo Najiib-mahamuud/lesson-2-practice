@@ -3,7 +3,7 @@
   "fontSize": 14,
   "language": "en",
   "notifications": true,
-  "autoSave": false,
+  "autoSave": true,
   "tabSize": 2,
   "showLineNumbers": true
 }
