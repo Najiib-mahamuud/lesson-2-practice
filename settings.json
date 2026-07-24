@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "fontSize": 14,
+  "language": "en",
+  "notifications": true,
+  "autoSave": false,
+  "tabSize": 2,
+  "showLineNumbers": true
+}
