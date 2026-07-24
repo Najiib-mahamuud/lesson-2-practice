@@ -1,0 +1,10 @@
+Git Practice Todo List
+=====================
+
+[x] Initialize repository
+[ ] Create first commit
+[ ] Practice git status
+[ ] Practice git diff
+[ ] Practice git log
+[ ] Create branches
+[ ] Push to GitHub
