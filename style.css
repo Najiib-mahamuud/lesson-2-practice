@@ -68,3 +68,12 @@ nav a {
 .btn:hover {
     background-color: #2980b9;
 }
+
+/* Card Styles */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
