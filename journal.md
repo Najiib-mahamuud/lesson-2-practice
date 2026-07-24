@@ -10,3 +10,7 @@ Started learning Git. Learned about repositories, commits, and staging area.
 - `git add` - Stage files
 - `git commit` - Commit changes
 - `git status` - Check repository status
+
+## Day 2
+
+Practiced staging and committing files. Created multiple files.
