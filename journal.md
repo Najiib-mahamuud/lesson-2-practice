@@ -56,3 +56,12 @@ Reached 100 commits! This is a great achievement in my Git learning journey.
 
 Successfully pushed the repository to GitHub!
 Learned about remote repositories and pushing code.
+
+
+## Final Thoughts
+
+This concludes the Git & GitHub Bootcamp practice.
+Total commits: 110
+Files created: 11+
+Branches practiced: 6
+GitHub: Connected and pushed successfully!
