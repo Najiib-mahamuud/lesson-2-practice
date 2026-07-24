@@ -105,3 +105,11 @@ th {
         padding: 10px;
     }
 }
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+.mt-20 {
+    margin-top: 20px;
+}
