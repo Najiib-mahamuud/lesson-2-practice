@@ -8,3 +8,7 @@ Git Practice Todo List
 [ ] Practice git log
 [ ] Create branches
 [ ] Push to GitHub
+
+[ ] Practice git branch
+[ ] Practice git merge
+[ ] Push to GitHub
