@@ -9,8 +9,8 @@ Git Practice Todo List
 [x] Create branches
 [ ] Push to GitHub
 
-[ ] Practice git branch
-[ ] Practice git merge
+[x] Practice git branch
+[x] Practice git merge
 [ ] Push to GitHub
 [ ] Practice git restore
 [ ] Practice git stash
