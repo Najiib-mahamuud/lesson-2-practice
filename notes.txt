@@ -38,3 +38,10 @@ git remote add origin <url> - connects to remote
 git push - sends commits to remote
 git pull - gets commits from remote
 git fetch - downloads remote data
+
+
+Git Diff:
+--------
+git diff - shows unstaged changes
+git diff --staged - shows staged changes
+git diff HEAD - shows all changes since last commit
