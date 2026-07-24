@@ -3,7 +3,7 @@
   "username": "Najiib-mahamuud",
   "email": "cabdinajiibmaxamuud7@gmail.com",
   "bio": "Learning Git and GitHub. Currently practicing everyday.",
-  "skills": ["Git", "GitHub", "Version Control", "Branching", "Merging"],
+  "skills": ["Git", "GitHub", "Version Control", "Branching", "Merging", "Stash", "Restore"],
   "learning": true,
   "experience": "intermediate",
   "projects": 3
