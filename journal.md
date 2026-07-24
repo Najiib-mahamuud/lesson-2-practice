@@ -30,3 +30,7 @@ Making good progress. Have made over 40 commits now.
 ## Day 6
 
 Halfway through the 100 commits challenge! Feeling more confident with Git.
+
+## Day 7
+
+Learned about git diff and how to compare changes.
