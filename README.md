@@ -20,3 +20,17 @@ This project helps me practice Git commands every day.
 ## Current Progress
 
 I have created 11 different files and made 25 commits so far.
+
+## Files in Project
+
+1. README.md - Project overview
+2. journal.md - Practice journal
+3. notes.txt - Git notes
+4. todo.txt - Task list
+5. names.txt - Names list
+6. students.csv - Student data
+7. colors.csv - Color data
+8. profile.json - User profile
+9. settings.json - Application settings
+10. index.html - Web page
+11. style.css - Stylesheet
