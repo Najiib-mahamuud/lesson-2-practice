@@ -55,3 +55,7 @@ This project contains 11 different files with various content.
 ## Final Notes
 
 Almost at 100 commits!
+
+## GitHub Integration
+
+This repository is now connected to GitHub!
