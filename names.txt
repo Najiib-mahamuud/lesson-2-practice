@@ -24,3 +24,7 @@ Locations:
 - Tokyo
 - Paris
 - Dubai
+- Sophia
+- James
+- Emma
+- Logan
