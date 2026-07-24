@@ -42,3 +42,7 @@ Practiced more advanced Git commands. Getting ready for branching.
 ## Day 9
 
 80 commits done! Started learning about remote repositories.
+
+## Day 10
+
+Almost done with 100 commits! Preparing for branch practice.
