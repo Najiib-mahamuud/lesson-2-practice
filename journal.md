@@ -38,3 +38,7 @@ Learned about git diff and how to compare changes.
 ## Day 8
 
 Practiced more advanced Git commands. Getting ready for branching.
+
+## Day 9
+
+80 commits done! Started learning about remote repositories.
