@@ -38,3 +38,9 @@ I have created 11 different files and made 25 commits so far.
 ## Branch Strategy
 
 This project will use feature branches for different sections.
+
+## Goals
+
+1. Make 100 commits
+2. Practice branching
+3. Push to GitHub
