@@ -26,3 +26,7 @@ Practiced staging multiple files and making meaningful commits.
 ## Day 5
 
 Making good progress. Have made over 40 commits now.
+
+## Day 6
+
+Halfway through the 100 commits challenge! Feeling more confident with Git.
