@@ -51,3 +51,10 @@ Restore:
 -------
 git restore <file> - discards unstaged changes
 git restore --staged <file> - unstage changes
+
+
+Stash:
+-----
+git stash - saves changes temporarily
+git stash pop - restores stashed changes
+git stash list - shows stashed changes
