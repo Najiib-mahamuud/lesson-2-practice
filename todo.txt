@@ -12,6 +12,6 @@ Git Practice Todo List
 [x] Practice git branch
 [x] Practice git merge
 [ ] Push to GitHub
-[ ] Practice git restore
-[ ] Practice git stash
+[x] Practice git restore
+[x] Practice git stash
 [ ] Push to GitHub
