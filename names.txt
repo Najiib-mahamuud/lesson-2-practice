@@ -31,3 +31,5 @@ Locations:
 - Ava
 - Ethan
 - Isabella
+- Charlotte
+- Amelia
