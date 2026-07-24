@@ -58,3 +58,9 @@ Stash:
 git stash - saves changes temporarily
 git stash pop - restores stashed changes
 git stash list - shows stashed changes
+
+
+Summary:
+-------
+Git is a powerful version control system.
+Practice makes perfect!
