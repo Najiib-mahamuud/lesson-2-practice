@@ -1,0 +1,6 @@
+Git Skills:
+-----------
+- Initializing repositories
+- Staging and committing
+- Viewing status and history
+- Branching and switching
