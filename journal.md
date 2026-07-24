@@ -22,3 +22,7 @@ Learned about git diff and git log. Understood how to track changes.
 ## Day 4
 
 Practiced staging multiple files and making meaningful commits.
+
+## Day 5
+
+Making good progress. Have made over 40 commits now.
