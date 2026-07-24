@@ -45,3 +45,9 @@ Git Diff:
 git diff - shows unstaged changes
 git diff --staged - shows staged changes
 git diff HEAD - shows all changes since last commit
+
+
+Restore:
+-------
+git restore <file> - discards unstaged changes
+git restore --staged <file> - unstage changes
