@@ -24,3 +24,9 @@ Branching:
 git branch - lists branches
 git switch -c - creates and switches to new branch
 git switch - switches branches
+
+
+Merging:
+-------
+git merge - combines branches
+git merge --no-ff - creates merge commit
