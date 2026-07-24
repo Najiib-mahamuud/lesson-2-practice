@@ -48,3 +48,6 @@ This project will use feature branches for different sections.
 ## Progress Update
 
 75 commits completed! Getting closer to 100.
+
+
+This project contains 11 different files with various content.
