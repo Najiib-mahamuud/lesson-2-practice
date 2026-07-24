@@ -30,3 +30,11 @@ Merging:
 -------
 git merge - combines branches
 git merge --no-ff - creates merge commit
+
+
+Remote Repositories:
+-------------------
+git remote add origin <url> - connects to remote
+git push - sends commits to remote
+git pull - gets commits from remote
+git fetch - downloads remote data
